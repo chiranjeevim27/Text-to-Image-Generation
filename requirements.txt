@@ -1,0 +1,7 @@
+diffusers==0.21.4
+transformers
+scipy
+ftfy
+accelerate
+wcwidth==0.2.12
+torch
